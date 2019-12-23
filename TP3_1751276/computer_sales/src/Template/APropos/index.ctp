@@ -15,7 +15,7 @@
         <hr noshade >
         <p>
             <h4>Lien Git : </h4>
-            ICI
+            https://github.com/1751276/AppInternetTP3.git
             <br>
         <hr noshade >
         <p>
@@ -44,7 +44,8 @@
         <p>
             <h4>Captcha et cliquer-glisser d'images : </h4>
             Le Captcha est présent dans la page de LOGIN.  
-            Le cliquer-glisser d'images est fonctionnel pour la table Files. (aller dans index.ctp de Files)
+            Le cliquer-glisser d'images est fonctionnel pour la table Files. 
+            Les deux sont fonctionnel.
             <br><br>
         </p>
         <p><h3><a href="http://www.databaseanswers.org/data_models/dell_computer_sales/index.htm">Lien BD</a></h3></p>
