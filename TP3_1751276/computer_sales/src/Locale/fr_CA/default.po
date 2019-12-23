@@ -1,0 +1,388 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-08-29 19:51+0000\n"
+"PO-Revision-Date: 2018-08-29 15:56-0400\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: \n"
+"Language: fr_CA\n"
+
+#: Controller/ProductsController.php:83;108
+msgid "The product has been saved."
+msgstr "Le produit a été enregistré."
+
+#: Controller/ProductsController.php:87;112
+msgid "The product could not be saved. Please, try again."
+msgstr "Le produit n'a pas pu être enregistré. Veuillez réessayer."
+
+#: Controller/ProductsController.php:130
+msgid "The product has been deleted."
+msgstr "Le produit a été supprimé."
+
+#: Controller/ProductsController.php:132
+msgid "The product could not be deleted. Please, try again."
+msgstr "Le produit n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Controller/ReviewsController.php:68;92
+msgid "The review has been saved."
+msgstr "La critique a été enregistré."
+
+#: Controller/ReviewsController.php:72;96
+msgid "The review could not be saved. Please, try again."
+msgstr "La critique n'a pas pu être enregistré. Veuillez réessayer."
+
+#: Controller/ReviewsController.php:113
+msgid "The review has been deleted."
+msgstr "La critique a été supprimé."
+
+#: Controller/ReviewsController.php:115
+msgid "The review could not be deleted. Please, try again."
+msgstr "La critique n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Controller/TagsController.php:55;80
+msgid "The tag has been saved."
+msgstr "L'étiquette a été enregistrée."
+
+#: Controller/TagsController.php:59;84
+msgid "The tag could not be saved. Please, try again."
+msgstr "L'étiquette n'a pas pu être enregistré. Veuillez réessayer."
+
+#: Controller/TagsController.php:102
+msgid "The tag has been deleted."
+msgstr "L'étiquette a été supprimée."
+
+#: Controller/TagsController.php:104
+msgid "The tag could not be deleted. Please, try again."
+msgstr "L'étiquette n'a pas pu être supprimée. Veuillez réessayer."
+
+#: Controller/UsersController.php:73;96
+msgid "The user has been saved."
+msgstr "L'utilisateur a été enregistré."
+
+#: Controller/UsersController.php:77;100
+msgid "The user could not be saved. Please, try again."
+msgstr "L'utilisateur n'a pas pu être enregistré. Veuillez réessayer."
+
+#: Controller/UsersController.php:116
+msgid "The user has been deleted."
+msgstr "L'utilisateur a été supprimé."
+
+#: Controller/UsersController.php:118
+msgid "The user could not be deleted. Please, try again."
+msgstr "L'utilisateur n'a pas pu être supprimé. Veuillez réessayer."
+
+#: Template/Products/add.ctp:9 Template/Products/edit.ctp:9
+#: Template/Products/index.ctp:9;30 Template/Products/view.ctp:9;67;96
+#: Template/Reviews/add.ctp:9 Template/Reviews/edit.ctp:9
+#: Template/Reviews/index.ctp:9;25 Template/Reviews/view.ctp:9
+#: Template/Tags/add.ctp:9 Template/Tags/edit.ctp:9
+#: Template/Tags/index.ctp:9;24 Template/Tags/view.ctp:9;51
+#: Template/Users/add.ctp:9 Template/Users/edit.ctp:9
+#: Template/Users/index.ctp:9;23 Template/Users/view.ctp:9;55
+msgid "Actions"
+msgstr "actes"
+
+#: Template/Products/add.ctp:10 Template/Products/edit.ctp:15
+#: Template/Products/view.ctp:12 Template/Reviews/add.ctp:11
+#: Template/Reviews/edit.ctp:17 Template/Reviews/index.ctp:11
+#: Template/Reviews/view.ctp:14 Template/Tags/add.ctp:11
+#: Template/Tags/edit.ctp:17 Template/Tags/index.ctp:11
+#: Template/Tags/view.ctp:14 Template/Users/add.ctp:11
+#: Template/Users/edit.ctp:17 Template/Users/index.ctp:11
+#: Template/Users/view.ctp:14
+msgid "List Products"
+msgstr "Liste des produits"
+
+#: Template/Products/add.ctp:11 Template/Products/edit.ctp:16
+#: Template/Products/index.ctp:11 Template/Products/view.ctp:14
+#: Template/Users/add.ctp:10 Template/Users/edit.ctp:16
+#: Template/Users/view.ctp:12
+msgid "List Users"
+msgstr "Liste des utilisateurs"
+
+#: Template/Products/add.ctp:12 Template/Products/edit.ctp:17
+#: Template/Products/index.ctp:12 Template/Products/view.ctp:15
+#: Template/Users/index.ctp:10 Template/Users/view.ctp:13
+msgid "New User"
+msgstr "Nouvel utilisateur"
+
+#: Template/Products/add.ctp:13 Template/Products/edit.ctp:18
+#: Template/Products/index.ctp:13 Template/Products/view.ctp:16
+#: Template/Reviews/add.ctp:10 Template/Reviews/edit.ctp:16
+#: Template/Reviews/view.ctp:12
+msgid "List Reviews"
+msgstr "Liste des critiques"
+
+#: Template/Products/add.ctp:14 Template/Products/edit.ctp:20
+#: Template/Products/index.ctp:14 Template/Products/view.ctp:17
+#: Template/Reviews/index.ctp:10 Template/Reviews/view.ctp:13
+msgid "New Review"
+msgstr "Nouvel critique"
+
+#: Template/Products/add.ctp:15 Template/Products/edit.ctp:21
+#: Template/Products/index.ctp:15 Template/Products/view.ctp:18
+#: Template/Files/add.ctp:10 Template/Files/edit.ctp:16 Template/Files/view.ctp:12
+msgid "List Files"
+msgstr "Liste des fichiers"
+
+#: Template/Products/add.ctp:16 Template/Products/edit.ctp:22
+#: Template/Products/index.ctp:16 Template/Products/view.ctp:19
+#: Template/Files/index.ctp:10 Template/Files/view.ctp:13
+msgid "New File"
+msgstr "Nouveau fichier"
+
+#: Template/Products/add.ctp:15 Template/Products/edit.ctp:23
+#: Template/Products/index.ctp:15 Template/Products/view.ctp:20
+#: Template/Tags/add.ctp:10 Template/Tags/edit.ctp:16 Template/Tags/view.ctp:12
+msgid "List Tags"
+msgstr "Liste de tags"
+
+#: Template/Products/add.ctp:16 Template/Products/edit.ctp:24
+#: Template/Products/index.ctp:16 Template/Products/view.ctp:21
+#: Template/Tags/index.ctp:10 Template/Tags/view.ctp:13
+msgid "New Tag"
+msgstr "Nouveau tag"
+
+#: Template/Products/add.ctp:22
+msgid "Add Product"
+msgstr "Ajouter un produit"
+
+#: Template/Products/add.ctp:32 Template/Products/edit.ctp:37
+#: Template/Reviews/add.ctp:25 Template/Reviews/edit.ctp:31
+#: Template/Tags/add.ctp:24 Template/Tags/edit.ctp:30 Template/Users/add.ctp:24
+#: Template/Users/edit.ctp:30
+msgid "Submit"
+msgstr "Soumettre"
+
+#: Template/Products/edit.ctp:12 Template/Products/index.ctp:45
+#: Template/Products/view.ctp:78;109 Template/Reviews/edit.ctp:11
+#: Template/Reviews/index.ctp:39 Template/Tags/edit.ctp:11
+#: Template/Tags/index.ctp:37 Template/Tags/view.ctp:66
+#: Template/Users/edit.ctp:11 Template/Users/index.ctp:35
+#: Template/Users/view.ctp:70
+msgid "Delete"
+msgstr "Effacer"
+
+#: Template/Products/edit.ctp:12 Template/Products/index.ctp:45
+#: Template/Products/view.ctp:11;78;109 Template/Reviews/edit.ctp:13
+#: Template/Reviews/index.ctp:39 Template/Reviews/view.ctp:11
+#: Template/Tags/edit.ctp:13 Template/Tags/index.ctp:37
+#: Template/Tags/view.ctp:11;66 Template/Users/edit.ctp:13
+#: Template/Users/index.ctp:35 Template/Users/view.ctp:11;70
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Êtes-vous sûr de vouloir supprimer # {0} ?"
+
+#: Template/Products/edit.ctp:27 Template/Products/view.ctp:10
+msgid "Edit product"
+msgstr "Modifier le produit"
+
+#: Template/Products/index.ctp:10 Template/Products/view.ctp:13
+#: Template/Reviews/add.ctp:12 Template/Reviews/edit.ctp:18
+#: Template/Reviews/index.ctp:12 Template/Reviews/view.ctp:15
+#: Template/Tags/add.ctp:12 Template/Tags/edit.ctp:18
+#: Template/Tags/index.ctp:12 Template/Tags/view.ctp:15
+#: Template/Users/add.ctp:12 Template/Users/edit.ctp:18
+#: Template/Users/index.ctp:12 Template/Users/view.ctp:15
+msgid "New Product"
+msgstr "Nouveau Produit"
+
+#: Template/Products/index.ctp:20
+msgid "Products"
+msgstr "Produits"
+
+#: Template/Products/index.ctp:43 Template/Products/view.ctp:76;107
+#: Template/Reviews/index.ctp:37 Template/Tags/index.ctp:35
+#: Template/Tags/view.ctp:64 Template/Users/index.ctp:33
+#: Template/Users/view.ctp:68
+msgid "View"
+msgstr "Afficher"
+
+#: Template/Products/index.ctp:44 Template/Products/view.ctp:77;108
+#: Template/Reviews/index.ctp:38 Template/Tags/index.ctp:36
+#: Template/Tags/view.ctp:65 Template/Users/index.ctp:34
+#: Template/Users/view.ctp:69
+msgid "Edit"
+msgstr "Modifier"
+
+#: Template/Products/index.ctp:53 Template/Reviews/index.ctp:47
+#: Template/Tags/index.ctp:45 Template/Users/index.ctp:43
+msgid "first"
+msgstr "premier"
+
+#: Template/Products/index.ctp:54 Template/Reviews/index.ctp:48
+#: Template/Tags/index.ctp:46 Template/Users/index.ctp:44
+msgid "previous"
+msgstr "précédent"
+
+#: Template/Products/index.ctp:56 Template/Reviews/index.ctp:50
+#: Template/Tags/index.ctp:48 Template/Users/index.ctp:46
+msgid "next"
+msgstr "prochain"
+
+#: Template/Products/index.ctp:57 Template/Reviews/index.ctp:51
+#: Template/Tags/index.ctp:49 Template/Users/index.ctp:47
+msgid "last"
+msgstr "dernier"
+
+#: Template/Products/index.ctp:59 Template/Reviews/index.ctp:53
+#: Template/Tags/index.ctp:51 Template/Users/index.ctp:49
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr "Page {{page}} de {{pages}}, indiquant {{current}} enregistrement (s) en dehors de {{count}} total"
+
+#: Template/Products/view.ctp:11
+msgid "Delete Product"
+msgstr "Supprimer le produit"
+
+#: Template/Products/view.ctp:26
+msgid "User"
+msgstr "Utilisateur"
+
+#: Template/Products/view.ctp:30;64 Template/Tags/view.ctp:22;45
+#: Template/Users/view.ctp:49
+msgid "Title"
+msgstr "Titre"
+
+#: Template/Products/view.ctp:34 Template/Tags/view.ctp:46
+#: Template/Users/view.ctp:50
+msgid "Slug"
+msgstr "Limace"
+
+#: Template/Products/view.ctp:38;63;90 Template/Reviews/view.ctp:30
+#: Template/Tags/view.ctp:26;43 Template/Users/view.ctp:30;47
+msgid "Id"
+msgstr "Id"
+
+#: Template/Products/view.ctp:42;65;94 Template/Reviews/view.ctp:34
+#: Template/Tags/view.ctp:30;49 Template/Users/view.ctp:34;53
+msgid "Created"
+msgstr "Créé"
+
+#: Template/Products/view.ctp:46;66;95 Template/Reviews/view.ctp:38
+#: Template/Tags/view.ctp:34;50 Template/Users/view.ctp:38;54
+msgid "Modified"
+msgstr "Modifié"
+
+#: Template/Products/view.ctp:50 Template/Tags/view.ctp:48
+#: Template/Users/view.ctp:52
+msgid "Published"
+msgstr "Publié"
+
+#: Template/Products/view.ctp:51
+msgid "Yes"
+msgstr "Oui"
+
+#: Template/Products/view.ctp:51
+msgid "No"
+msgstr "Non"
+
+#: Template/Products/view.ctp:55 Template/Tags/view.ctp:47
+#: Template/Users/view.ctp:51
+msgid "Body"
+msgstr "Corps"
+
+#: Template/Products/view.ctp:59
+msgid "Related Tags"
+msgstr "Tags associés"
+
+#: Template/Products/view.ctp:86
+msgid "Related Reviews"
+msgstr "reviewaires connexes"
+
+#: Template/Products/view.ctp:91
+msgid "Product Id"
+msgstr "ID du produit"
+
+#: Template/Products/view.ctp:92 Template/Reviews/view.ctp:26
+msgid "Name"
+msgstr "prénom"
+
+#: Template/Products/view.ctp:93 Template/Reviews/view.ctp:43
+msgid "review"
+msgstr "critique"
+
+#: Template/Reviews/add.ctp:18
+msgid "Add review"
+msgstr "Ajouter un critique"
+
+#: Template/Reviews/edit.ctp:24 Template/Reviews/view.ctp:10
+msgid "Edit review"
+msgstr "Modifier la critique"
+
+#: Template/Reviews/index.ctp:16
+msgid "Reviews"
+msgstr "Critique"
+
+#: Template/Reviews/view.ctp:11
+msgid "Delete review"
+msgstr "Supprimer la critique"
+
+#: Template/Reviews/view.ctp:22
+msgid "Product"
+msgstr "Produit"
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr "Erreur"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Arrière"
+
+#: Template/Tags/add.ctp:18
+msgid "Add Tag"
+msgstr "Ajouter une étiquette"
+
+#: Template/Tags/edit.ctp:24 Template/Tags/view.ctp:10
+msgid "Edit Tag"
+msgstr "Modifier la tag"
+
+#: Template/Tags/index.ctp:16
+msgid "Tags"
+msgstr "Mots clés"
+
+#: Template/Tags/view.ctp:11
+msgid "Delete Tag"
+msgstr "Supprimer la tag"
+
+#: Template/Tags/view.ctp:39 Template/Users/view.ctp:43
+msgid "Related Products"
+msgstr "Products Liés"
+
+#: Template/Tags/view.ctp:44 Template/Users/view.ctp:48
+msgid "User Id"
+msgstr "Identifiant d'utilisateur"
+
+#: Template/Users/add.ctp:18
+msgid "Add User"
+msgstr "Ajouter un utilisateur"
+
+#: Template/Users/edit.ctp:24 Template/Users/view.ctp:10
+msgid "Edit User"
+msgstr "Modifier l'utilisateur"
+
+#: Template/Users/index.ctp:16
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: Template/Users/view.ctp:11
+msgid "Delete User"
+msgstr "Supprimer l'utilisateur"
+
+#: Template/Users/view.ctp:22
+msgid "Email"
+msgstr "Email"
+
+#: Template/Users/view.ctp:26
+msgid "Password"
+msgstr "Mot de passe"
+
